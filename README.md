@@ -3,5 +3,3 @@ This respository contains materials for the PyTorch Workshop organized by Depart
 
 ## Requirements to run the notebooks
 Run ```pip install -r requirements.txt``` to install all the required packages.
-
-## 
